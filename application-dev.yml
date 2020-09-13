@@ -1,0 +1,4 @@
+db:
+  connection: connecting-string-from-config-server-for-dev
+  host: 127.0.0.1
+  port: 1200
